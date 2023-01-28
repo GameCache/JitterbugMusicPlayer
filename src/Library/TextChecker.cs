@@ -1,6 +1,6 @@
 ﻿using System.Text.RegularExpressions;
 
-namespace CodeTemplate.Library
+namespace JitterbugMusicPlayer.Library
 {
     /// <summary>Verifies string contents.</summary>
     public static partial class TextChecker

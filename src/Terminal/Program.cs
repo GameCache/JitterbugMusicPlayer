@@ -1,7 +1,7 @@
 ﻿using System;
-using CodeTemplate.Library;
+using JitterbugMusicPlayer.Library;
 
-namespace CodeTemplate.Terminal
+namespace JitterbugMusicPlayer.Terminal
 {
     /// <summary>Handles running chess on the console.</summary>
     public static class Program

@@ -1,10 +1,10 @@
 ﻿using System;
 using System.IO;
-using CodeTemplate.Terminal;
 using CreateAndFake.Fluent;
+using JitterbugMusicPlayer.Terminal;
 using Xunit;
 
-namespace CodeTemplate.TerminalTests
+namespace JitterbugMusicPlayer.TerminalTests
 {
     public static class ProgramTests
     {
