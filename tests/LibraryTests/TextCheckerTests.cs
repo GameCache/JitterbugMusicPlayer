@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Globalization;
-using CodeTemplate.Library;
 using CreateAndFake;
 using CreateAndFake.Fluent;
+using JitterbugMusicPlayer.Library;
 using Xunit;
 
-namespace CodeTemplate.LibraryTests
+namespace JitterbugMusicPlayer.LibraryTests
 {
     public static class TextCheckerTests
     {
